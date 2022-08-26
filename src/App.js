@@ -10,7 +10,8 @@ function App() {
   // }
   return (
     <div className='App'>
-      <button>click me</button>
+      {/* <button>click me</button> */}
+<h1>This is aneela project</h1>
       {/* <User />
       <Apple />
       <Comp /> */}
